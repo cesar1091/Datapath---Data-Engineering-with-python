@@ -1,6 +1,7 @@
 from datetime import date
 from pydantic import BaseModel
 
+
 class Answer1(BaseModel):
     department_name: str
     order_item_subtotal: float

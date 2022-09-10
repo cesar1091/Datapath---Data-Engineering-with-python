@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from routes.answer import answer
 
+
 app = FastAPI(
     title="Datapath project API",
     openapi_tags=[{
