@@ -1,11 +1,15 @@
 # Datapath---Data-Engineering-with-python
 
+![](project_structure.png)
+
 El presente proyecto consta de tres partes, el desarrollo de la base da datos en MySQL, el desarrollo de la ETL, y la creación de una API con el módulo FastAPI de python para la disponibilización de la informacion con el objetivo de responder las siguientes cuatro preguntas:
 
 * __Pregunta 1__: ¿Cuáles son los ingresos por departamento?
 * __Pregunta 2__: ¿Cuáles son las categorías más compradas? (identificar el nombre de la categoría)?
 * __Pregunta 3__: ¿Quiénes son el top 10 de clientes que generan más compras para fidelizarlos?
 * __Pregunta 4__: ¿Cuales son las ventas historicas realizadas?
+
+
 
 ## Parte 1: Desarrollo de la base de datos
 
